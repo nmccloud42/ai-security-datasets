@@ -1,4 +1,4 @@
-# Week 3 — Label-Flip Poisoning (Tiny Dataset)
+# Label-Flip Poisoning (Tiny Dataset)
 
 Minimal dataset to demonstrate label-flip poisoning.
 - clean_train.csv (80 rows)
